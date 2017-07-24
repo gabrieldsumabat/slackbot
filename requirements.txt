@@ -1,0 +1,20 @@
+appdirs==1.4.0
+beautifulsoup4==4.5.3
+bleach==1.5.0
+html2text==2016.9.19
+html5lib==0.9999999
+lxml==3.7.3
+packaging==16.8
+pyparsing==2.1.10
+requests==2.13.0
+six==1.10.0
+slackclient==1.0.5
+websocket-client==0.40.0
+
+PIP Installs:
+pip install beautifulsoup4
+pip install lxml
+pip install html2text
+pip install bleach
+pip install slackclient
+
